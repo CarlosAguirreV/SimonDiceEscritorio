@@ -1,5 +1,6 @@
 # Simón dice
-Réplica del juego electrónico de mesa Simón.
+Réplica del juego electrónico de mesa Simón.</br>
+También está hecha la (versión para Android)[https://github.com/CarlosAguirreV/SimonDice].
 
 ## 🛠️ Pre-requisitos
 Para poder usar esta aplicación es necesario tener instalado **Java**.
