@@ -5,7 +5,7 @@ También está hecha la [versión para Android](https://github.com/CarlosAguirre
 ## 🛠️ Pre-requisitos
 Para poder usar esta aplicación es necesario tener instalado **Java**.
 * En Windows podrás ejecutarlo de manera sencilla con solo hacer doble click en el _.jar_.
-* En Linux tendrás que emplear los comandos _java -jar ./tu_ruta/TaskMan.jar_ No olvides darle permisos.
+* En Linux tendrás que emplear los comandos _java -jar ./tu_ruta/JuegoSimon.jar_ No olvides darle permisos.
 
 ## 🖇️ ¿Dónde lo puedo descargar?
 Desde la página de [Games Jolt](https://gamejolt.com/games/simondice/419133).
