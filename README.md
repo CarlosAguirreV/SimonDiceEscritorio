@@ -1,4 +1,4 @@
-# Simón dice
+# Simón dice (PC)
 Réplica del juego electrónico de mesa Simón.</br>
 También está hecha la [versión para Android](https://github.com/CarlosAguirreV/SimonDice).
 
